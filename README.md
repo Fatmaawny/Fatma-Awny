@@ -1,8 +1,8 @@
 # Fatma-Awny
 [![MasterHead](https://archive.smashing.media/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/51c7e56c-068a-4da1-9382-761ce077c93b/flutter-sharing-image-large.png)](https://rishavchanda.io)
-<h1 align="center">Hello, I'm Fatma Awny <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2cjczbTVocDc3aGxyODg0dWp3MmQwNHhrcWtpbHNuamdhOXgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="70"></h1>
+<h1 align="center">Hello, I'm Fatma Awny <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHI2cjczbTVocDc3aGxyODg0dWp3MmQwNHhrcWtpbHNuamdhOXgxbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WOwiryOPA0G6jhKqB0/giphy.gif" width="60"></h1>
 <h3 align="center">Flutter Developer from Egypt 🌍</h3>
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGM2Zm8ybjI3eGFucHlvYjFsaGJsdWQweXAzN3NyazEyOWM0c2c2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/H7f5ZGjvKXBaLbBigO/giphy.gif">
+<img align="right" alt="coding" width="400" src="https://media1.tenor.com/m/w3APLkMuTX0AAAAC/computer-work.gif">
 
 - 🔭 I’m currently working on **Graduation Project**
 
