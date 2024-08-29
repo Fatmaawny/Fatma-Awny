@@ -32,7 +32,7 @@
 ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 <p align="left">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Omar Elsadany's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fatmaawny&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
+    <img alt="Fatma Awny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fatmaawny&show_icons=true&count_private=true&locale=en&theme=transparent&layout=compact" height="230px"/>
   </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fatmaawny&langs_count=10&show_icons=true&locale=en&theme=transparent&layout=compact" alt="Top 10 Languages" height="230px"/>
 </p>
@@ -41,9 +41,4 @@
     <a href="https://github.com/Fatmaawny">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatmaawny&theme=transparent&hide_border=false" alt="GitHub Streak" />
     </a>
-</p>
-## GitHub Trophies
-<p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fatmaawny&theme=onedark&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Profile Trophies" />
-</p>
 ---
